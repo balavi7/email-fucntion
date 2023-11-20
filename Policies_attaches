@@ -1,0 +1,7 @@
+Policies attached 
+
+AmazonS3ReadOnlyAccess
+
+AmazonSESFullAccess
+
+CloudWatchLogsFullAccess
